@@ -60,9 +60,7 @@ This portfolio is my first step towards building a strong presence in the tech f
 ## 📞 Contact Details
 
 - **Email:** kaurharjinder@gmail.com  
-- **WhatsApp:** 9812907124  
-
----
+  
 
 ## 📌 Future Improvements
 
