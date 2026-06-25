@@ -8,15 +8,12 @@ The website showcases my academic details, skills, interests, and contact inform
 
 ## 👩‍💻 About Me
 
-Hello! I’m **Jaishmeet Kaur**, a **Computer Science Engineering (CSE)** student at  
-**Guru Nanak Dev Polytechnic College, Ludhiana**, currently in my **3rd semester**.
+Hello! I’m **Jaishmeet Kaur**, a **Computer Science Engineering Diploma student at  
+**Guru Nanak Dev Polytechnic College, Ludhiana**, currently in my **5th semester**.
 
-I am passionate about:
-- Web Designing  
-- Databases  
-- Exploring different areas of technology  
+I am passionate about software development, databases, web technologies, and building practical projects that solve real-world problems.
 
-This portfolio is my first step towards building a strong presence in the tech field.
+This portfolio showcases my technical skills, projects, and learning journey as I prepare for internships and future software development opportunities.
 
 ---
 
