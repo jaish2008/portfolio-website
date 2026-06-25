@@ -59,7 +59,9 @@ This portfolio is my first step towards building a strong presence in the tech f
 
 ## 📞 Contact Details
 
-- **Email:** kaurharjinder@gmail.com  
+- **Email:** kaurharjinder@gmail.com
+- **GitHub:** https://github.com/jaish2008
+- **LinkedIn:**www.linkedin.com/in/jaishmeet-kaur-105a28394
   
 
 ## 📌 Future Improvements
