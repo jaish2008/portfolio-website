@@ -29,10 +29,9 @@ This portfolio showcases my technical skills, projects, and learning journey as 
 ---
 
 ## 📂 Project Structure
-├── index.html
-├── style.css
-└── README.md
-
+├── index.html<br>
+├── style.css<br>
+└── README.md<br>
 
 ---
 
