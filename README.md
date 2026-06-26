@@ -70,7 +70,8 @@ This portfolio showcases my technical skills, projects, and learning journey as 
 ---
 ## Screenshot
 
-![Portfolio Screenshot]<img width="1713" height="1886" alt="profile png" src="https://github.com/user-attachments/assets/be9b3fdb-3294-421c-8e53-d2fab96b0bbb" />
+![Portfolio Screenshot]<img width="1713" height="1886" alt="profile png" src="https://github.com/user-attachments/assets/aeeb7cda-9c01-4635-91c3-6b51f1338bfd" />
+
 
 )
 
