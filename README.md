@@ -1,4 +1,3 @@
-# First_assignment-
 # 🌐 Personal Portfolio Website
 
 This repository contains my **personal portfolio website**, created using **HTML and CSS**.  
@@ -69,6 +68,9 @@ This portfolio showcases my technical skills, projects, and learning journey as 
 - Deploy using GitHub Pages  
 
 ---
+## Screenshot
+
+![Portfolio Screenshot](screenshot.png)
 
 ## 📃 License
 
