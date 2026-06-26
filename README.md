@@ -45,8 +45,8 @@ This portfolio showcases my technical skills, projects, and learning journey as 
 ## 🚀 How to Run the Project
 
 1. Clone the repository:
-   git clone <repository-url>
-   2. Open the folder
+   git clone <https://github.com/jaish2008/portfolio-website?utm_source=chatgpt.com>
+ 2. Open the folder
 3. Double-click `index.html`  
 **OR**
 4. Open with Live Server in VS Code
