@@ -58,7 +58,6 @@ This portfolio showcases my technical skills, projects, and learning journey as 
 
 ## 📞 Contact Details
 
-- **Email:** kaurharjinder@gmail.com
 - **GitHub:** https://github.com/jaish2008
 - **LinkedIn:**www.linkedin.com/in/jaishmeet-kaur-105a28394
   
@@ -68,7 +67,6 @@ This portfolio showcases my technical skills, projects, and learning journey as 
 - Make the website fully responsive  
 - Add a navigation bar  
 - Add animations and transitions  
-- Deploy using GitHub Pages  
 
 ---
 ## Screenshot
